@@ -1,2 +1,8 @@
 # Ovlira
-A responsive freelancing website built with HTML, CSS, and JavaScript.
+
+A responsive freelancing website.
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
